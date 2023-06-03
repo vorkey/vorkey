@@ -4,7 +4,7 @@
 
 <h2 align=center> About Me </h2>
 
-I am currently a Computer and Networking student at SMKN 2 Tamiang Layang. I learn programming by myself, hence why my code might be of questionable quality. I apologize if in any case reading that might offend anyone.😅
+Currently a Computer and Networking student at SMKN 2 Tamiang Layang. I learn programming by myself, hence why my code might be of questionable quality. I apologize if in any case reading that might offend anyone.
 
 Nice to meet you.
 
