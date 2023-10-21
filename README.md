@@ -5,7 +5,9 @@ Yay Peace
 - 🔭 I’m currently not working on anything.
 - 🌱 I’m currently learning React
 
-<p align="center">
+![](https://komarev.com/ghpvc/?username=vorkey&color=green)
+
+<p align="left">
   <a href=https://github.com/vorkey>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vorkey&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vorkey&layout=compact&theme=vue"/>
