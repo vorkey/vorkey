@@ -10,7 +10,7 @@ Yay Peace
 <p align="left">
   <a href=https://github.com/vorkey>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vorkey&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vorkey&layout=compact&theme=vue"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vorkey&layout=compact&theme=vue&count_private=true"/>
     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vorkey&theme=vue" />
   </a>
 </p>
