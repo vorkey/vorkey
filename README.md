@@ -5,7 +5,7 @@ Yay Peace
 - 🔭 I’m currently not working on anything.
 - 🌱 I’m currently learning React
 
-![](https://komarev.com/ghpvc/?username=vorkey&color=green)
+![](https://komarev.com/ghpvc/?username=vorkey&color=#41B883)
 
 <p align="left">
   <a href=https://github.com/vorkey>
