@@ -3,7 +3,7 @@ Yay Peace
 <!-- **vorkey/vorkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently not working on anything.
-- 🌱 I’m currently learning React
+<!-- - 🌱 I’m currently learning React -->
 
 ![](https://komarev.com/ghpvc/?username=vorkey&color=41B883)
 
