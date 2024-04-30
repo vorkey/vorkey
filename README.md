@@ -6,8 +6,6 @@ My name is Ambadaya, yes it's a weird name. I am a vocational high school gradua
 - 🔭 I’m not working on anything.
 - ⚡ Not-Fun fact: I can't afford college and currently unemployed lmao.
 
-![](https://komarev.com/ghpvc/?username=vorkey&color=41B883)
-
 ## Things I've used
 <p>
   <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -40,33 +38,14 @@ My name is Ambadaya, yes it's a weird name. I am a vocational high school gradua
 
 
 ## Github Stats
-<p align="center">
-  <a href="https://github.com/vorkey?tab=repositories">
-    <picture>
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=vorkey&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-      <img align="center" 
-        src="https://github-readme-stats.vercel.app/api?username=vorkey&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" 
-        width="50%"/>
-    </picture>
-  </a>
-  <a href="https://github.com/vorkey?tab=repositories">
-    <picture>
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vorkey&theme=vue-dark&count_private=true&langs_count=12&size_weight=0.75&count_weight=0.25&layout=compact" />
-      <img align="center" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vorkey&theme=vue-dark&count_private=true&langs_count=12&size_weight=0.75&count_weight=0.25&layout=compact" 
-        width="42%"/>
-    </picture>
-  </a>
-</p>
+![](https://komarev.com/ghpvc/?username=vorkey&color=41B883&style=for-the-badge)
 
-<!--
-<div style="display: flex; justify-content: space-between;">
-  
-</div>
+![](https://github-readme-stats.vercel.app/api?username=vorkey&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true)
 
- - 👯 I’m looking to collaborate on ... 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vorkey&theme=vue-dark&count_private=true&langs_count=12&size_weight=0.75&count_weight=0.25&layout=compact)
+
+<!-- 
+- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
