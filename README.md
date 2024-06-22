@@ -44,3 +44,6 @@ My name is Ambadaya. I am a vocational high school graduate, with interest in pr
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
