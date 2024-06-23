@@ -46,4 +46,14 @@ My name is Ambadaya. I am a vocational high school graduate, with interest in pr
 - ⚡ Fun fact: ... -->
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 21 June 2024 - To: 22 June 2024
+
+Total Time: 16 mins
+
+Astro   16 mins         █████████████████████████   99.38 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+```
+
 <!--END_SECTION:waka-->
