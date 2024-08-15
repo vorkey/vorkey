@@ -48,7 +48,7 @@ My name is Ambadaya. I am a vocational high school graduate, with interest in pr
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2024 - To: 12 August 2024
+From: 21 June 2024 - To: 13 August 2024
 
 Total Time: 11 hrs 48 mins
 
