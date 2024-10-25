@@ -48,20 +48,20 @@ My name is Ambadaya. I am a vocational high school graduate, with interest in pr
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2024 - To: 22 October 2024
+From: 21 June 2024 - To: 23 October 2024
 
-Total Time: 75 hrs 18 mins
+Total Time: 76 hrs 10 mins
 
-C++           19 hrs 41 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.98 %
-HTML          17 hrs 6 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.57 %
-C             9 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
-Go            8 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-CSS           5 hrs 48 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-Markdown      5 hrs 42 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-JavaScript    4 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-TypeScript    1 hr 43 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-PHP           1 hr 10 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-JSON          1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+C++           19 hrs 41 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.68 %
+HTML          17 hrs 42 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.10 %
+C             9 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
+Go            8 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
+CSS           6 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+Markdown      5 hrs 42 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+JavaScript    4 hrs 32 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+TypeScript    1 hr 43 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+PHP           1 hr 10 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+JSON          1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
