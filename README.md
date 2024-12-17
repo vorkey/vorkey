@@ -48,15 +48,15 @@ My name is Ambadaya. I am a vocational high school graduate, with interest in pr
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2024 - To: 14 December 2024
+From: 21 June 2024 - To: 15 December 2024
 
-Total Time: 105 hrs 34 mins
+Total Time: 108 hrs 1 min
 
-C++           29 hrs 34 mins  ███████░░░░░░░░░░░░░░░░░░   27.85 %
-HTML          21 hrs 55 mins  █████░░░░░░░░░░░░░░░░░░░░   20.64 %
-Markdown      10 hrs 12 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-C             9 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
-Go            8 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+C++           32 hrs 1 min    ███████▒░░░░░░░░░░░░░░░░░   29.48 %
+HTML          21 hrs 55 mins  █████░░░░░░░░░░░░░░░░░░░░   20.18 %
+Markdown      10 hrs 12 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
+C             9 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+Go            8 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
 ```
 
 <!--END_SECTION:waka-->
