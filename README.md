@@ -33,8 +33,6 @@ My name is Ambadaya. I am a vocational high school graduate, with interest in pr
 ## Github Stats
 ![](https://komarev.com/ghpvc/?username=vorkey&color=41B883&style=for-the-badge)
 
-![](https://github-readme-stats.vercel.app/api?username=vorkey&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vorkey&theme=vue-dark&count_private=true&langs_count=6&size_weight=0.75&count_weight=0.25&layout=compact)
 
 <!-- 
