@@ -18,7 +18,7 @@ My name is Ambadaya, I am currently studying Electronics at State Polytechnic of
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2024 - To: 31 January 2025
+From: 21 June 2024 - To: 01 February 2025
 
 Total Time: 179 hrs 46 mins
 
