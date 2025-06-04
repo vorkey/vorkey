@@ -18,15 +18,15 @@ My name is Ambadaya, I am currently studying Electronics at State Polytechnic of
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2024 - To: 01 June 2025
+From: 21 June 2024 - To: 02 June 2025
 
-Total Time: 191 hrs 11 mins
+Total Time: 192 hrs 40 mins
 
-C++                        49 hrs 17 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.44 %
-JavaScript                 28 hrs 18 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
-HTML                       28 hrs 18 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
-Python                     20 hrs 17 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-CSS                        12 hrs 59 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+C++                        49 hrs 17 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.25 %
+HTML                       28 hrs 50 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+JavaScript                 28 hrs 18 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
+Python                     20 hrs 17 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+CSS                        13 hrs 52 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
 ```
 
 <!--END_SECTION:waka-->
